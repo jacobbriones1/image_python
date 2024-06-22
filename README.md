@@ -1,2 +1,3 @@
 # image_python
-Working with and manipulating images in Python.
+---
+Open `image_demo.ipynb`.
